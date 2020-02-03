@@ -1,0 +1,21 @@
+body {margin:0; background-color: #e3fdfd;}
+
+
+
+.opening {; border-bottom: 0;text-align: center; margin-bottom: 0; padding-top: 100px; font-family: serif;}
+.firstbody {background-color: #cbf1f5; text-align: center; padding-bottom: 10px;font-family: 'Noto Serif SC', serif;}
+.heads2 {margin-top: 0; padding-top: 10px; text-align: center;}
+.secondbody {background-color: #a6e3e9; padding-bottom: 10px;'Noto Serif SC', serif;}
+.listitems {position:relative; right:20px;font-family: 'Noto Sans', sans-serif;}
+
+.running {width:75%; margin-left: auto; margin-right: auto;}
+.hobby-description {width: 85%; font-size:16; line-height: 2;}
+/* relative means relative to default position ie. top n px means n px away from the top of the default
+absolute means relative to its parent, also removes element from flow of html meaning it wont affect layout of other elements(treated like another layer)
+fixed means the element will stay in the same position relative to screen regardless of your scrolling*/
+#selfie1 {border-radius: 50%; border-width: 10px; border-style: inset; border-color: #99ccff; position:relative;}
+#edhist {list-style:none; margin-bottom: 0;}
+#Hobbies {list-style:none; margin-bottom: 0}
+#myname {font-family: 'Satisfy', cursive;}
+#running-pic {width:200px;height:120px; background: url("https://media0.giphy.com/media/UouuIQXT1NJ2Mc3lW2/giphy.gif?cid=790b76115e8214e5473514bc6522abfed09690404c0d350d&rid=giphy.gif") no-repeat; background-size:40%; float:left; display:inline-block;}
+#running-pic:hover {background: url('../Images/2xu.jpg') no-repeat;background-size: 60%;}
