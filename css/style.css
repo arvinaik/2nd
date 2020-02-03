@@ -18,4 +18,4 @@ fixed means the element will stay in the same position relative to screen regard
 #Hobbies {list-style:none; margin-bottom: 0}
 #myname {font-family: 'Satisfy', cursive;}
 #running-pic {width:200px;height:120px; background: url("https://media0.giphy.com/media/UouuIQXT1NJ2Mc3lW2/giphy.gif?cid=790b76115e8214e5473514bc6522abfed09690404c0d350d&rid=giphy.gif") no-repeat; background-size:40%; float:left; display:inline-block;}
-#running-pic:hover {background: url('../../Images/2xu.jpg') no-repeat;background-size: 60%;}
+#running-pic:hover {background: url('../Images/2xu.jpg') no-repeat;background-size: 60%;}
